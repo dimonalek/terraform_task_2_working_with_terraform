@@ -29,7 +29,7 @@ data "archive_file" "terraform_code" {
   type        = "zip"
   source_dir  = path.module
   output_path = "${path.module}/${var.blob_name}"
-  excludes    = [
+  excludes = [
     ".terraform",
     "terraform.tfstate",
     "terraform.tfstate.backup",
