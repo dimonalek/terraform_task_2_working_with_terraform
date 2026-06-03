@@ -3,7 +3,7 @@ Copyright IBM Corp. 2017, 2026
 Mozilla Public License Version 2.0
 ==================================
 
-1. Definitions
+1. Definitions_____
 --------------
 
 1.1. "Contributor"
